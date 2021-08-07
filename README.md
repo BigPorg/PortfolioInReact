@@ -1,2 +1,2 @@
 # PortfolioInReact
-My portfolio but now in ~React~. Homework 20
+My portfolio but now in React. Homework 20
